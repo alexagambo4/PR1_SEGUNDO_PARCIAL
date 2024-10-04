@@ -22,7 +22,7 @@ print("PRACTICA 1, SEGUNDA UNIDAD")
 
 print("") #imprime una linea en blanco tipo para que se vea mas limpio el programita 
 
-
+# Programa no.1: Imprimir lista 
 #se almacena una lista 
 
 thislist = ["43", "57", "92", "20", "37", "5", "9"]
