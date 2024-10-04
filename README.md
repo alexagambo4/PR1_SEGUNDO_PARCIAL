@@ -100,4 +100,5 @@ print("Números triunfadores (ordenados):", sorted(numeros_triunfadores))
 # Imagenes
 ![image](https://github.com/user-attachments/assets/ba73c5bb-9cb9-4615-a746-f495f2071336)
 
-![image](https://github.com/user-attachments/assets/1df1c1fa-fc1c-448b-aa20-0f854f5067c7)
+![image](https://github.com/user-attachments/assets/04f96fa6-9a06-43be-b14d-4abc74ed733c)
+
